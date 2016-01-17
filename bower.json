@@ -3,11 +3,11 @@
   "authors": [
     "Milashkasiya <milashkasiya@gmail.com>"
   ],
-  "description": "Enviando emails anonimamente",
+  "description": "Estsa aplicacion utiliza CURL para hacer una conexion con un sitio web gratuito que enviar emails anonimamente.",
   "main": "index",
   "moduleType": [],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/Milashkasiya/anonymail",
   "private": true,
   "ignore": [
     "**/.*",
