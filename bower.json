@@ -3,7 +3,7 @@
   "authors": [
     "Milashkasiya <milashkasiya@gmail.com>"
   ],
-  "description": "Estsa aplicacion utiliza CURL para hacer una conexion con un sitio web gratuito que enviar emails anonimamente.",
+  "description": "Esta aplicacion utiliza CURL para hacer una conexion a un sitio web que envia emails anonimamente.",
   "main": "index",
   "moduleType": [],
   "license": "MIT",
@@ -19,5 +19,8 @@
   "dependencies": {
     "bootstrap": "~3.3.6",
     "jquery": "~2.2.0"
-  }
+  },
+  "keywords": [
+    "curl"
+  ]
 }
